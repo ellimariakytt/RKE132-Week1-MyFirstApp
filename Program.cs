@@ -10,4 +10,5 @@ userName = Console.ReadLine();
 
 Console.WriteLine("Hello" + ", " + userName + "!");
 //string interpolation
-Console.WriteLine($"Armastan sind" + "!");
+Console.WriteLine($"Hello, {username} !");
+
